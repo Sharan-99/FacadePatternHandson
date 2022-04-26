@@ -1,0 +1,6 @@
+C:\Users\2091199\source\repos\FacadePatternLibrary\FacadePatternLibrary\bin\Debug\FacadePatternLibrary.dll
+C:\Users\2091199\source\repos\FacadePatternLibrary\FacadePatternLibrary\bin\Debug\FacadePatternLibrary.pdb
+C:\Users\2091199\source\repos\FacadePatternLibrary\FacadePatternLibrary\obj\Debug\FacadePatternLibrary.csproj.AssemblyReference.cache
+C:\Users\2091199\source\repos\FacadePatternLibrary\FacadePatternLibrary\obj\Debug\FacadePatternLibrary.csproj.CoreCompileInputs.cache
+C:\Users\2091199\source\repos\FacadePatternLibrary\FacadePatternLibrary\obj\Debug\FacadePatternLibrary.dll
+C:\Users\2091199\source\repos\FacadePatternLibrary\FacadePatternLibrary\obj\Debug\FacadePatternLibrary.pdb
